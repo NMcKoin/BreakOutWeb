@@ -1,0 +1,23 @@
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  background-color: black;
+  color: white;
+}
+
+h1 {
+  color: blue;
+}
+
+canvas {
+  border: 1px solid #000;
+  background-color: #f0f0f0; /* Keeps the canvas background white */
+}
+
+p {
+  color: white;
+}
